@@ -4,11 +4,13 @@
 ## Active Task
 > #### Data Gathering
 > - Have asked friends to provide short videos for their faces.
+---
 
 ## Upcoming Task
 > #### Face Selection and cropping the input
 > - Select the face, crop the significant area
 > - Feed the cropped image into the **facial keypoint annotation model**.
+---
 
 ## TODO :  
 - [] Fetch Data and prepare a model  
