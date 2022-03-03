@@ -5,7 +5,7 @@
 > #### Data Gathering
 > - Have asked friends to provide short videos for their faces.
 > - Select the face, crop the significant area
-> - [Alt text](screenshots/Screenshot from 2022-03-04 03-28-47.png?raw=true "face with bounding box")
+> - ![Screenshot](Screenshot from 2022-03-04 03-28-47.png)
 ---
 
 ## Upcoming Task
