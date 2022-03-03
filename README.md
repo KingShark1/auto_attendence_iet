@@ -5,7 +5,7 @@
 > #### Data Gathering
 > - Have asked friends to provide short videos for their faces.
 > - Select the face, crop the significant area
-> - ![Screenshot](Screenshot from 2022-03-04 03-28-47.png)
+> - ![Screenshot](https://github.com/KingShark1/auto_attendence_iet/blob/master/screenshots/Screenshot%20from%202022-03-04%2003-28-47.png?raw=true)
 ---
 
 ## Upcoming Task
